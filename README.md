@@ -1,2 +1,2 @@
 # Java
-Aula em Java simples
+Aulas em laboratório com a linguagem Java 3° semestre.
